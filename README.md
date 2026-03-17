@@ -18,7 +18,7 @@ My work focuses on transforming raw data into **scalable, user-friendly tools** 
 
 ### 🔹 Interactive Data Products
 
-* **Streamlit-based dashboards** for real-time insights
+* **Web-based dashboards** for real-time insights
 * Web-based analytics tools
 * Lightweight **decision support systems** for business users
 
@@ -110,5 +110,5 @@ I’m working toward building and scaling **data-driven products** that help sma
 
 * LinkedIn: [https://www.linkedin.com/in/femi-julius-79ba48242/]
 * Website: [**coming soon....**]
-* Email: [femijulius560'gmail.com]
+* Email: [femijulius560@gmail.com]
 
