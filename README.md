@@ -1,108 +1,94 @@
 # Hi, I'm Femi Julius 👋
 
-## 🚀 Building Predictive Intelligence Systems & Data Products for SMEs
+## 🚀 Data & Intelligence Systems for Hospitality Businesses
 
-I design and build **predictive intelligence systems and interactive data products** that help small and growing businesses make faster, smarter decisions.
+I design and build data products that help hospitality businesses track performance, understand trends, and make smarter decisions.
 
-My work focuses on transforming raw data into **scalable, user-friendly tools** — combining machine learning, analytics, and intuitive interfaces that non-technical users can actually use.
+My focus is on turning raw data into simple, usable tools by combining analytics, machine learning, and clean interfaces that non-technical users can actually use.
 
 ---
 
 ## 🧠 What I Build
 
-### 🔹 Predictive Analytics Systems
+### 🔹 Performance Dashboards
+- Revenue, bookings, and occupancy tracking  
+- Daily and weekly performance insights  
+- KPI dashboards for quick decision-making  
 
-* Machine learning models for **forecasting and trend analysis**
-* **Risk prediction systems** for early detection
-* Data-driven models that support proactive decision-making
+### 🔹 Business Insights & Analytics
+- Sales trends and customer behavior analysis  
+- Peak hours, demand patterns, top-performing products  
+- Cost and operational performance insights  
 
-### 🔹 Interactive Data Products
-
-* **Web-based dashboards** for real-time insights
-* Web-based analytics tools
-* Lightweight **decision support systems** for business users
-
-### 🔹 Performance Intelligence Frameworks
-
-* KPI modeling and tracking systems
-* Automated benchmarking tools
-* Custom **risk scoring algorithms**
+### 🔹 Forecasting & Optimization
+- Demand and revenue forecasting  
+- Staffing and inventory planning  
+- Identifying inefficiencies and growth opportunities  
 
 ---
 
 ## 🎯 Focus
-
-* Building **data products, not just models**
-* Solving real business problems for **SMEs**
-* Turning analytics into **usable, scalable systems**
+- Building practical data tools.
+- Solving real problems for hospitality businesses  
+- Turning data into clear, actionable insights  
 
 ---
 
 ## 🛠️ Tech Stack
-
-* **Python** (core development)
-* **SQL** (data management)
-* **Scikit-learn** (modeling, evaluation)
-* **Streamlit:** (data apps)
-* **VS Code:** (integrated development environment)
-* **Jupyter Notebook/Git:** (workflow tools)
-* **Matplotlib/Seaborn/Plotly:** (visualizations)
-
----
-
-## 📊 Featured Products
-
-### 🔹 Financial Risk & Fraud Intelligence Platform
-
-* Detects anomalies, fraud patterns, and high-risk transactions
-* Enables real-time risk scoring and decision support
-
-**Sample Applications:**
-
-* Insurance claims risk & fraud detection
-* Payment fraud & transaction anomaly detection
+- Python  
+- SQL  
+- Scikit-learn  
+- Streamlit  
+- VS Code  
+- Jupyter Notebook / Git  
+- Matplotlib / Plotly  
 
 ---
 
-### 🔹 Business Performance Intelligence Platform
+## 📊 Featured Product
 
-* Tracks, analyzes, and forecasts key business metrics (revenue, costs, growth)
-* Provides decision support through KPI modeling and trend analysis
+### 🔹 Revenue & Demand Intelligence Platform
+Tracks daily revenue and predicts busy periods to help optimize staffing, pricing, and capacity.  
 
-**Sample Applications:**
-
-* Sales & revenue forecasting dashboard
-* KPI tracking and automated performance benchmarking
+**Use cases:**
+- Restaurant peak-hour and table demand analysis
+- Hotel occupancy and booking trends  
+- Identifying high-revenue time slots and days 
 
 ---
 
-### 🔹 Operational Efficiency & Forecasting Platform
+### 🔹 Guest & Transaction Insights Platform
+Monitors bookings and transactions to detect unusual patterns and reduce revenue loss. 
 
-* Optimizes business operations using predictive analytics
-* Identifies inefficiencies and forecasts demand and resource needs
+**Use cases:**
+- Fraud detection in bookings and payments  
+- Cancellation and no-show pattern analysis  
+- Customer behavior insights  
 
-**Sample Applications:**
+---
 
-* Inventory demand forecasting system
-* Workforce planning & resource allocation tool
+### 🔹 Operations & Efficiency Intelligence Platform
+Helps optimize staffing, inventory, and daily operations using data insights.  
+
+**Use cases:**
+- Staff scheduling based on expected demand
+- Inventory planning for busy vs slow periods  
+- Identifying inefficiencies during service hours
 
 ---
 
 ## 📈 Current Direction
-
-* Building scalable **data products for SMEs**
-* Exploring **AI-powered decision systems**
-* Moving toward **production-ready analytics tools**
+- Building data tools tailored for hospitality businesses  
+- Focusing on real-time insights and decision support  
+- Expanding into predictive analytics and optimization  
 
 ---
 
 ## 🌍 Vision
-
-I’m working toward building and scaling **data-driven products** that help small and growing businesses:
-
-* Understand their data
-* Predict future outcomes
-* Make better strategic decisions
+I’m building data-driven systems that help hospitality businesses:
+- Understand performance in real time  
+- Make faster, more confident decisions  
+- Plan ahead with better data  
 
 ---
 
