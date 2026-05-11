@@ -1,4 +1,4 @@
-# Hi, I'm Femi Julius 👋
+# Hi, I'm Femi Ogunnaya 👋
 
 ## 🚀 Data & Intelligence Systems for Hospitality Businesses
 
