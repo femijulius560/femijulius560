@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3200&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Femi+Ogunnaya;Data+Intelligence+Engineer;Building+AI-Powered+Decision+Support+Systems;Turning+Complex+Data+Into+Better+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3200&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Hi+👋;Building+AI-Powered+Decision+Support+Systems;Turning+Complex+Data+Into+Better+Decisions)](https://git.io/typing-svg)
 
 </div>
 
