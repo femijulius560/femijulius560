@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# Data Intelligence Engineer
+# Analytics Engineer
 
 ### Building AI-Powered Decision Support Systems
 
@@ -22,7 +22,7 @@ I design intelligent systems that transform complex data into practical, actiona
 
 ## 👨‍💻 About Me
 
-I'm **Femi Ogunnaya**, a Data Intelligence Engineer passionate about solving real world problems with **machine learning, analytics, and interactive data products**.
+I'm **Femi Ogunnaya**, an Analytics Engineer passionate about solving real world problems with **machine learning, analytics, and interactive data products**.
 
 I enjoy building decision support systems wherever data can create meaningful impact.
 
